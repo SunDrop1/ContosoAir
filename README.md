@@ -1,5 +1,9 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+<<<<<<< HEAD
 [![Build Status](https://dev.azure.com/YOM85/PartsUnlimited/_apis/build/status/SunDrop0.ContosoAir?branchName=master)](https://dev.azure.com/YOM85/PartsUnlimited/_build/latest?definitionId=8&branchName=master)
+=======
+[![Build Status](https://dev.azure.com/YOM85/test/_apis/build/status/SunDrop1.ContosoAir%20(1)?branchName=master)](https://dev.azure.com/YOM85/test/_build/latest?definitionId=7&branchName=master)
+>>>>>>> 656bb19f2344ce04ba9ebe39f350503b46cb37eb
 
 # Microsoft.Github CI Demo
 
